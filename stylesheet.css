@@ -133,3 +133,25 @@ h2 {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.image {
+  width: 33%;
+  padding: 2.5%;
+}
+
+.image img {
+  width: 100%;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.paper-image {
+  width: 33%;
+  padding: 20px;
+}
+
+.paper-image img {
+  width: 100%;
+  max-width: 100%;
+}
